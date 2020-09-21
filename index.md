@@ -1,20 +1,21 @@
 Shubham Shivhare
 ============
 
--------------------     ----------------------------
-:BTM 2nd Stage         * shubham.shivhare24@gmail.com
-:Bangalore (KA)        *                  @shivhare24
-:INDIA                 *                +919098410984
--------------------     ----------------------------
+----------------------------------------------------------------------
+*Addr: BTM 2nd Stage, Bangalore (KA),INDIA.                               
+* shubham.shivhare24@gmail.com
+* @shivhare24
+* +919098410984
+-----------------------------------------------------------------------
 
 Education
 ---------
 
-2011-2015 (expected)
+2011-2015 (Bachelor's)
 :   **BE, Electronics & Communication Engineering**; RGPV (Bhopal)
 
 
-2010-2011
+2010-2011 (Schooling)
 :   **SSC, PCM**; State Board (M.P)
     Bhopal (M.P)
 
@@ -50,7 +51,7 @@ Mar 2016 – Sep 2018
 Employment Duration2 yrs 7 mos
 LocationChennai Area, India
 
-Client - Alectra Utilities
+: Client - Alectra Utilities
 Alectra is a utility company in Ontario, operating primarily in the Greater Toronto Area. It has over 100K customers, who are billed monthly for their electricity consumption. Along with that the bill also contains the bill for water component which is supplied by the local municipalities. Oracle Utility Customer Care and Billing (CC&B) is implemented for this purpose. CC&B 2.5 is customized using Java and 4GL scripts. The main functionalities implemented include, billing, metering, connections, credit and collections, field activity and other modules. Most of the standard functionalities are supported by CC&B, but certain customer specific areas are always implemented using Java.
 
 Role & Responsibilities:
