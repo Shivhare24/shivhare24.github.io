@@ -2,11 +2,11 @@ Shubham Shivhare
 ============
 
 ----------------------------------------------------------------------
-*Addr: BTM 2nd Stage, Bangalore (KA),INDIA.                               
+* Addr: BTM 2nd Stage, Bangalore (KA),INDIA.                               
 * shubham.shivhare24@gmail.com
 * @shivhare24
 * +919098410984
------------------------------------------------------------------------
+
 
 Education
 ---------
